@@ -91,7 +91,7 @@
     "postcss-loader": "^3.0.0",
     "recursive-readdir": "^2.2.2",
     "sass-loader": "^7.1.0",
-    "sharp": "^0.22.1",
+    "sharp": "^0.30.5",
     "standard-version": "^6.0.1",
     "svg2png": "^4.1.1",
     "vue-loader": "^15.7.0",
